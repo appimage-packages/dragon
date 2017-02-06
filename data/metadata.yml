@@ -47,6 +47,7 @@ frameworks:
     - plasma-framework
     - kdecoration
     - breeze
+    - kparts
 type: git
 url: http://anongit.kde.org/dragon
 buildsystem: cmake
